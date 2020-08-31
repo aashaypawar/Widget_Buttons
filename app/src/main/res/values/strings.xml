@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GFG | Widget_Buttons</string>
+    <string name="appwidget_text">GFG | Widget_Buttons</string>
+    <string name="add_widget">Add widget</string>
+</resources>
